@@ -9,11 +9,11 @@ Since we are working in a Java environment, I attempted to read /WEB-INF/web.xml
 # subdomain finder
 
 ###> subfinder -d wimerasys.com -v  
-      -d = particular one domain enumurate
-      -dl = Maltipull domain enumurate from a file 
-      -o, -output string = file to write output to
-      -silent = show only subdomains name in output
-      -nW, -active = display active subdomains only
-      -oI, -ip = include IP address and domain name in output (-active only)
-      -max-time int = minutes to wait for enumeration results (default 10)
-      -ei, -exclude-ip = exclude IPs from the list of domains
+      -d = particular one domain enumurate <br>
+      -dl = Maltipull domain enumurate from a file <br>
+      -o, -output string = file to write output to <br>
+      -silent = show only subdomains name in output <br>
+      -nW, -active = display active subdomains only <br>
+      -oI, -ip = include IP address and domain name in output (-active only) <br>
+      -max-time int = minutes to wait for enumeration results (default 10) <br>
+      -ei, -exclude-ip = exclude IPs from the list of domains <br>
