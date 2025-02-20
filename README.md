@@ -9,7 +9,7 @@ Since we are working in a Java environment, I attempted to read /WEB-INF/web.xml
 
 # subdomain finder
 
-### subfinder -d wimerasys.com -v  
+##### subfinder -d wimerasys.com -v  
       -d = particular one domain enumurate <br>
       -dl = Maltipull domain enumurate from a file <br>
       -o, -output string = file to write output to <br>
