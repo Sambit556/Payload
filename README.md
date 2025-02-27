@@ -20,6 +20,14 @@ Since we are working in a Java environment, I attempted to read /WEB-INF/web.xml
       -ei, -exclude-ip = exclude IPs from the list of domains <br>
 
 
- go-to tools #Subfinder, #Amass, #Bbot to gather subdomains.
+ go-to tools 
+#Subfinder, 
+#Amass, 
+#Bbot 
+to gather subdomains.
+--------------------------------------
  filtered the live ones with #httpx.
-using the #"-sc — title" flags because they show the status code and page title, which helps me spot interesting subdomains faster. 
+--------------------------------------
+using the 
+#"-sc — title" 
+flags because they show the status code and page title, which helps me spot interesting subdomains faster. 
