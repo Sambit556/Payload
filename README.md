@@ -18,3 +18,8 @@ Since we are working in a Java environment, I attempted to read /WEB-INF/web.xml
       -oI, -ip = include IP address and domain name in output (-active only) <br>
       -max-time int = minutes to wait for enumeration results (default 10) <br>
       -ei, -exclude-ip = exclude IPs from the list of domains <br>
+
+
+ go-to tools -Subfinder, -Amass, and -Bbot to gather subdomains.
+ filtered the live ones with -httpx.
+using the "-sc — title" flags because they show the status code and page title, which helps me spot interesting subdomains faster. 
